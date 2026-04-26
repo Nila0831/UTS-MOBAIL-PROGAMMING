@@ -101,10 +101,31 @@ flutter run
 
 ---
 
-## Screenshot Aplikasi
-Login → (tambahkan gambar)  
-Dashboard → (tambahkan gambar)  
-Lupa Password → (tambahkan gambar)  
+## 📱 Tampilan Aplikasi
+
+### 🔐 Halaman Login
+![Login](https://imgur.com/cwcP1RY.png)
+
+Halaman login digunakan untuk autentikasi pengguna sebelum masuk ke dalam aplikasi.  
+Pengguna diminta untuk memasukkan email dan password yang telah terdaftar.  
+Tersedia juga fitur **“Lupa Password”** untuk membantu pengguna yang mengalami kendala saat login.
+
+---
+
+### 🔑 Halaman Lupa Password
+![Lupa Password](https://imgur.com/gZVzgBn.png)
+
+Halaman ini digunakan untuk melakukan reset password.  
+Pengguna dapat memasukkan email yang terdaftar untuk menerima instruksi penggantian password.  
+Terdapat tombol **kembali (back)** untuk kembali ke halaman login.
+
+---
+
+### 📊 Halaman Dashboard
+![Dashboard](https://imgur.com/dlKEbra.png)
+
+Dashboard merupakan halaman utama setelah pengguna berhasil login.  
+Pada halaman ini ditampilkan informasi utama aplikasi serta navigasi ke fitur-fitur yang tersedia.
 
 ---
 
